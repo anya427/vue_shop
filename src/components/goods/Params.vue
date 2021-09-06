@@ -179,9 +179,7 @@
                 //控制修改对话框的显示与隐藏
                 editDialogVisible: false,
                 //修改参数的表单验证对象
-                editForm: {
-
-                },
+                editForm: {},
                 editFormRef:'',
 
 
